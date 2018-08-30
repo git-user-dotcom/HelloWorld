@@ -6,6 +6,7 @@
 void main(){
 printf("Hello World");
 }
+
 //Java File
 class HelloWorld{
   public static void main(String args[]){
@@ -13,3 +14,11 @@ class HelloWorld{
     }
   }
 }
+
+//c++ File
+#include<iostream>
+void main(){
+cout<<"Hello World";
+}
+
+
